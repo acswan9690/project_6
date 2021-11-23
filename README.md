@@ -59,7 +59,10 @@ A few quick visualizations to help understand conlusions and inferences:
 
 #### We can see the largest cluster is by far group #1:
 
-![](../files/cluster_count_dist.png)
+
+<p>
+    <img src="../files/cluster_count_dist.png" width="500" height="500">
+</p>
 
 #### For reference, since averages don't tell the whole story, below are the box plots of important features:
 
