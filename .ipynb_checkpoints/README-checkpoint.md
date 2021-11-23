@@ -59,10 +59,7 @@ A few quick visualizations to help understand conlusions and inferences:
 
 #### We can see the largest cluster is by far group #1:
 
-
-<p>
-    <img src="./files/cluster_count_dist.png" width="500" height="500">
-</p>
+![](./files/cluster_count_dist.png)
 
 #### For reference, since averages don't tell the whole story, below are the box plots of important features:
 
@@ -70,7 +67,7 @@ A few quick visualizations to help understand conlusions and inferences:
 
 #### To get a quick snap shot of our cluster info we can compare averages via bar chart:
 
-![](../files/cluster_averages.png)
+![](./files/cluster_averages.png)
 
 #### Promos and deals are huge revenue generators and attract new customers as well as incentivize returning customers to come back, often boosting sales by getting folks back in the store or browsing again.  
 
