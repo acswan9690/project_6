@@ -61,12 +61,12 @@ A few quick visualizations to help understand conlusions and inferences:
 
 
 <p>
-    <img src="../files/cluster_count_dist.png" width="500" height="500">
+    <img src="./files/cluster_count_dist.png" width="500" height="500">
 </p>
 
 #### For reference, since averages don't tell the whole story, below are the box plots of important features:
 
-![](../files/cluster_ranges.png)
+![](./files/cluster_ranges.png)
 
 #### To get a quick snap shot of our cluster info we can compare averages via bar chart:
 
@@ -76,11 +76,11 @@ A few quick visualizations to help understand conlusions and inferences:
 
 As you can see, promos were not heavily utilized by customers.  We either need to refine our targetted ads or reevaluate our promos as a whole.
 
-![](../files/promotion_counts.png)
+![](./files/promotion_counts.png)
 
 On the other hand, our deals drew in many more users and were much more successful.
 
-![](../files/deal_counts.png)
+![](./files/deal_counts.png)
 
 
 ### Detailed Cluster Insights and Conclusions/Inferences
